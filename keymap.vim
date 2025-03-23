@@ -30,7 +30,6 @@ map <A-g> <Action>(Git.Menu)
 
 noremap <silent> viv :<C-u>normal! F$ve<CR>
 
-" zaznaczenie Funkcji
 noremap <silent> vii :call SelectIfElse()<cr>
 
 nnoremap vaf :action MethodUp<cr>V]Mo

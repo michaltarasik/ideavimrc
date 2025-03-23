@@ -1,6 +1,6 @@
 let mapleader = ' '
 
-source ~/dotfile/ideavim/set.vim
-source ~/dotfile/ideavim/plugin.vim
-source ~/dotfile/ideavim/keymap.vim
-source ~/dotfile/ideavim/keymapInsert.vim
+source ~/ideavimrc/set.vim
+source ~/ideavimrc/plugin.vim
+source ~/ideavimrc/keymap.vim
+source ~/ideavimrc/keymapInsert.vim

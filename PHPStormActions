@@ -1,0 +1,31 @@
+Set in PhpStorm as keymaps
+
+
+EditorDown                             <C-j>
+EditorDown                             <A-j>
+EditorDownWithSelection                <C-S-j>
+EditorUp                               <C-k>
+EditorUp                               <A-k>
+EditorUpWithSelection                  <C-S-k>
+EditorLeft                             <C-h>
+EditorLeft                             <A-h>
+EditorLeftWithSelection                <C-S-h>
+EditorRight                            <C-l>
+EditorRight                            <A-l>
+EditorRightWithSelection               <C-S-l>
+
+CopyReferencePopupGroup                <C-S-c>
+RecentFiles                            <A-e>
+Back                                   <A-i>
+Forward                                <A-o>
+FileStructurePopup                     <A-a>
+HideActiveWindow                       <ESC>
+NextTab                                <A-.>
+PreviousTab                            <A-,>
+CloseActiveTab                         <A-x>
+ActivateCommitToolWindow               <A-c>
+ActivateTerminalToolWindow             <A-t>
+ActivateDatabaseToolWindow             <A-d>
+ActivateVersionControlToolWindow       <A-v>
+Console.TableResult.Filter.Custom      <A-f>
+Console.TableResult.EditFilterCriteria <A-S-f>

@@ -2,17 +2,17 @@
 This is my personal PhpStorm configuration file for IdeaVim.
 
 # Installation
-Create sublink to `~/.ideavimrc` from file `ideavimrc`
+1. Create symlink to `~/.ideavimrc` from file `ideavimrc` and edit `ideavimrc` file to show specific path to files
 
-1 Example
+Example
 ```bash
 ln -s ideavimrc/ideavimrc $HOME/.ideavimrc
 
 ```
+2. Set keymap in settings like in `PhpStormActions` file
 
 # Make sure you have the following plugins installed: 
-1 IdeaVim
-2 IdeaVim-EasyMotion
-3 AceJump
-4 Which-Key
-
+- IdeaVim
+- IdeaVim-EasyMotion
+- AceJump
+- Which-Key
